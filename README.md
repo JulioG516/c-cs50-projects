@@ -1,4 +1,4 @@
-# This repository contains programs implemented in C language for the CS50 course offered by Harvard University. The programs are intended to be used as reference material for students taking the course or for anyone interested in learning the C language.
+# This repository contains programs implemented in C language for the CS50 course offered by Harvard University. 
 
 # CS50 Course
 CS50 is a computer science course offered by Harvard University. The course covers the fundamentals of computer science and programming, including algorithms, data structures, abstraction, encapsulation, resource management, security, software engineering, and web development. The course is taught in multiple programming languages, including C, Python, and JavaScript, and covers a wide range of topics from low-level systems programming to high-level web development.
